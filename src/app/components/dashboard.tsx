@@ -13,7 +13,7 @@ export const Dashboard = () => {
               <p>A powerful and versatile project management tool that helps you get things done.</p>
           </div>
           <div>
-              <div className='bg-yellow-600 flex items-center'> <a href="https://ceyinfo.com" className="btn btn-primary">Try Protarck for free</a></div>
+              <div className='bg-yellow-600 flex items-center'> <a href="https://protrack.ceyinfo.com" className="btn btn-primary">Try Protarck for free</a></div>
           </div>
       </div>
   )
