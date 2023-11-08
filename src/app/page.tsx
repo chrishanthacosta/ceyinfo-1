@@ -1,8 +1,12 @@
 import Image from 'next/image'
 import { Dashboard } from './components/dashboard';
+import Navbar from './components/navbar';
 
 export default function Home() {
   return (
-   <Dashboard/>
+    <>
+     <Navbar></Navbar>
+      <Dashboard />
+    </>
   )
 }
